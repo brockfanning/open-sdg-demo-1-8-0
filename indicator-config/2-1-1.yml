@@ -14,6 +14,16 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields:
+  - series: Median
+    label: My footer field for the 'Median' series
+    value: The value for my footer field
+  - series: Percentile (2.5th)
+    label: Another footer field for the 'Percentile' series
+    value: Another value for the footer field
+  - label: General footer field
+    value: My general value
+    series: ''
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
@@ -26,7 +36,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
